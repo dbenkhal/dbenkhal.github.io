@@ -7,9 +7,20 @@ padding: 0;
 }
 a {color: #960224; text-decoration: none;}
 a:hover { text-decoration: underline; }
-mark {
+
+mark.black {
+  background-color: black;
+  color: white;
+}
+
+mark.pink {
   background-color: pink;
 }
+
+mark.lime {
+  background-color: lime;
+}
+
 
 h1 {
 margin: 0;
